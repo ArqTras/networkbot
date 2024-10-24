@@ -1,5 +1,3 @@
-Here’s a `README.md` file for the installation and setup of your Telegram and Discord bot:
-
 ```markdown
 # ArQmA Telegram & Discord Bot
 
