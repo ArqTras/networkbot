@@ -1,0 +1,5 @@
+discord.py==2.0.0
+python-telegram-bot==20.0b0
+requests==2.31.0
+asyncio==3.4.3
+
